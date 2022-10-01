@@ -1,2 +1,4 @@
 # DesktopSlideShowMaker
-A Python Script that allowes you to create an XML file for a desktop slideshow for use with Certain Linux OSes.
+This is an Old Script, but a reliable one.
+
+It Simple takes a Folder you specify, copies them to another hidden folder for safe keeping, and then makes an XLM File to use as a Slide show for some Linux Distros' Desktops.
